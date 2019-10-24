@@ -23,6 +23,10 @@ Users appreciate release notes as you update your extension.
 ### 1.0.0
 This is initial release of vscode-qcirc
 
+This is beta version of vscode-qcircuit.
+
+I'm gonna connect qiskit, qasm and other providers to this extension.
+
 -----------------------------------------------------------------------------------------------------------
 
 ## Future implementation and TODO
