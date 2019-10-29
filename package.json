@@ -10,13 +10,13 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.qcircuit"
+		"onCommand:qcircuit.basicgates"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.qcircuit",
+				"command": "qcircuit.basicgates",
 				"title": "QuantumCircuitExtender"
 			}
 		]

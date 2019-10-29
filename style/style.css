@@ -1,0 +1,11 @@
+body {
+    font-family: var(--vscode-editor-font-family);
+    /* background-color: black; */
+    text-align: center;
+}
+
+svg {
+    fill: red;
+  }
+
+
